@@ -1,0 +1,46 @@
+.contactfrm input, textarea , label, Button , h2 {
+    width: 50%;
+    display: flex;
+    margin: auto;
+   /* text-align: center; */
+    margin-top: 10px;
+
+
+}
+
+.tex-btn{
+    color: black;
+    text-align: center;
+    font-weight: 400;
+}
+
+.feedback{
+    color: goldenrod;
+}
+
+.contactfrm{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+
+@media only screen and (max-width: 600px)  {
+    .contactfrm input, textarea , label, Button , h2 {
+        width: 80%;
+        display: flex;
+        margin: auto;
+        
+       /* text-align: center; */
+        margin-top: 10px;
+    
+    }
+    
+.contactfrm{
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+  }
+  
