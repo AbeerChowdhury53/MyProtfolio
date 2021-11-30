@@ -2,25 +2,29 @@
     {
         "id": 1,
         "name": "Cover Shop",
-        "duration": "4 Days",
+        "duration": "4 Days",       
         "website": "https://fir-auth-cb030.firebaseapp.com/",
         "image": "https://i.ibb.co/2M48TVr/ppp.png",
         "description": "Here I use React.js, Node.js, React Hook Form, Bootstrap and Material UI, Firebase Email Authentication. Responsive and user-friendly interfaces. It’s a dynamic website Admin can Manage Products, add Products, remove Products and update status."
     },
-    {
+	    {
         "id": 2,
         "name": "Diagnostic centre",
-        "duration": "2 Days",
+        "duration": "2 Days",       
         "website": "https://fir-auth2-ecb75.firebaseapp.com/",
         "image": "https://i.ibb.co/2M48TVr/ppp.png",
         "description": "It is a Diagnostic center website. User can see all services, see details about service and login. Here I use React.js, Bootstrap, Firebase Email and google Authenticatio. Responsive and user-friendly interfaces. Here I add About Me, Frequently Asked Qusetions etc"
     },
-    {
+	    {
         "id": 3,
         "name": "Uri Uri Travel",
-        "duration": "2 Hours",
+        "duration": "2 Hours",       
         "website": "https://traval-f1e86.firebaseapp.com/",
         "image": "https://i.imgur.com/GtYM0BG.png",
         "description": "User can register, log in, can place or delete and update an order with just one click. User can book a tour and manage their bookings. Here I use React.js, Node.js, React Hook Form, Bootstrap and Material UI, Firebase Email Authentication."
     }
+	   
+	   
+	
+    
 ]

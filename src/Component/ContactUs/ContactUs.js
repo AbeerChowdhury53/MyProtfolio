@@ -30,7 +30,7 @@ export const ContactUs = () => {
   };
 
   return (
-  <div className='contactfrm'>
+  <div id='contact' className='contactfrm'>
       <h2 >Please Give your valuable Feedback </h2>
         <form  ref={form} onSubmit={sendEmail}>
       

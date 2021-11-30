@@ -5,7 +5,7 @@ import './AboutMe.css'
 
 const AboutMe = () => {
     return (
-        <div className='about-div' style={{
+        <div id='aboutme' className='about-div' style={{
             backgroundImage: `url(${background})`,
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'center',
